@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f2132571e0a864aa8353b957f609c0, type: 3}
+  m_Name: FruitLevel
+  m_EditorClassIdentifier: 
+  levelName: Fruity
+  itemPrefabs:
+  - {fileID: 9213177566467570162, guid: 7d27c84ccd1cacb42891c5ef060b49fd, type: 3}
+  - {fileID: 9213177566467570162, guid: c4b5d50168e32ea4498fc7af9733b9e9, type: 3}
+  - {fileID: 9213177566467570162, guid: ddcc7d409c8f2a04db51931d76648d6e, type: 3}
+  - {fileID: 9213177566467570162, guid: 357cc1df7e324cf4abbe524f28faadd1, type: 3}
+  - {fileID: 9213177566467570162, guid: adb9ceaf299aa2341b422899cc984c89, type: 3}
+  - {fileID: 9213177566467570162, guid: f923cc693d4837e45923bc280098cbc8, type: 3}
+  - {fileID: 9213177566467570162, guid: 7c4f751d9a5165649bb78b366a90f29c, type: 3}
+  - {fileID: 9213177566467570162, guid: f66ec58465d0aa84a9d841828eceeb07, type: 3}
